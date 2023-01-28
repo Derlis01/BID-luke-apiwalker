@@ -1,0 +1,16 @@
+.App {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .principal {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+  }
+  
+  .contenido > * {
+    margin: 3px;
+  }
